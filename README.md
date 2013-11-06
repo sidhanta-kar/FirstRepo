@@ -1,4 +1,0 @@
-FirstRepo
-=========
-
-First Public Repository
